@@ -33,7 +33,7 @@ bool isON = false;
 const char* ssid = "JUNGES";
 const char* password = "mateus1234560";
 const char* server = "broker.mqtt-dashboard.com";
-const char* topic = "mateusjunges.alceubritto.projeto.sistemas.embarcados";
+const char* topic = "mateusjunges.alceubritto.projeto.sistemas.embarcados.2018";
 
 String strMacAdress;
 char macAddress[6];
